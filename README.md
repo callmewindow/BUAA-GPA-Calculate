@@ -9,7 +9,7 @@
 
 ### 内容：
 
-本项目目前仅包括三个C语言程序 getAll.cpp getGpa.cpp getScore.cpp
+本项目目前仅包括三个C++(实际为C)程序 getAll.cpp getGpa.cpp getScore.cpp
 
 使用时直接编译运行即可
 
